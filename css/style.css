@@ -584,6 +584,12 @@ h1 {
     top: 20px;
     left: -250px;
   }
+  .experience__line{
+		height: 2050px;
+	}
+	.education__line{
+		align-self: center;
+	}
   header::before {
     height: 80px;
   }
